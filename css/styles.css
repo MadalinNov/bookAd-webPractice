@@ -1,0 +1,85 @@
+
+body{
+  background-color: #eeeeee;
+}
+
+.head-bar{
+  text-align: center;
+  background-color: #393e46;
+  height: 50px;
+}
+h1{
+  position: relative;
+  top:75px;
+  text-align: center;
+  font-family: cursive;
+  left: 350px;
+}
+h4{
+  font-family: sans-serif;
+  top: 15px;
+  color: #e0dede;
+  display: inline;
+  position: relative;
+}
+h5{
+  font-size: 15px;
+  font-family:cursive;
+  position: relative;
+  text-align: center;
+  top: 60px;
+  left: 470px
+}
+.book{
+  padding-right: 20px;
+}
+.author{
+  padding-right: 20px;
+}
+.cover{
+  position: relative;
+  width: 300px;
+  border: solid 1px;
+  left: 100px;
+  bottom: 30px;
+}
+.foot{
+  width: 100%;
+  height: 70px;
+  background-color: #393e46;
+  position: absolute;
+  bottom: 0;
+}
+.credits{
+  top: 10px;
+  text-align: center;
+  position: relative;
+}
+.paragraph{
+  width: 800px;
+  height: 100px;
+  position: absolute;
+  bottom: 400px;
+  right: 200px;
+}
+p{
+  position: relative;
+  bottom: 10px;
+}
+.order-now{
+  position: absolute;
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  right: 200px;
+  bottom: 350px;
+}
+h3{
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: orange;
+}
+a{
+  text-decoration: none;
+}
